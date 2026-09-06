@@ -45,5 +45,4 @@
 	status = "okay";
 	phy-handle = <&qca8075_4>;
 	label = "lan4";
-	status = "okay";
 };
